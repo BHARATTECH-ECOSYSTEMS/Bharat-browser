@@ -17,7 +17,7 @@ Bharat-browser Base is a modern web browser, built on top of modern web technolo
 - [Downloads](#downloads)
 - [Contributing](#contributing)
 - [Development](#development)
-  - [Running](#running)
+- [Running](#running)
 - [Documentation](#documentation)
 - [License](#license)
 
