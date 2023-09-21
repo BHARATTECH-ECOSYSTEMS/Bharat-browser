@@ -6,10 +6,6 @@
   <h1>Bharat-browser Browser Base</h1>
 
 
-[![Downloads](https://img.shields.io/github/downloads/Bharat-browser/desktop/total.svg?style=flat-square)](https://Bharat-browser.net)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-brightgreen?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VCPPFUAL4R6M6&source=url)
-
-
 Bharat-browser Base is a modern web browser, built on top of modern web technologies such as `Electron` and `React`, that can also be used as a framework to create a custom web browser (see the [License](#license) section).
 
 </div>
