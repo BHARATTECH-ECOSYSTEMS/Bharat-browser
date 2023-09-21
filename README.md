@@ -58,17 +58,12 @@ UI compact variant:
 ![image](https://user-images.githubusercontent.com/11065386/81024222-13099600-8e73-11ea-9fc9-3c63a034403d.png)
 ![image](https://user-images.githubusercontent.com/11065386/81024252-2ddc0a80-8e73-11ea-9f2f-6c9a4a175c60.png)
 
-# Downloads
-- [Stable and beta versions](https://github.com/Bharat-browser/desktop/releases)
-- [Nightlies](https://github.com/Bharat-browser/desktop-nightly/releases)
 
-# [Roadmap](https://github.com/Bharat-browser/Bharat-browser/projects)
 
 # Contributing
 
-If you have found any bugs or just want to see some new features in Bharat-browser, feel free to open an issue. Every suggestion is very valuable for us, as they help us improve the browsing experience. Also, please don't hesitate to open a pull request. This is really important to us and for the further development of this project.
+If you have found any bugs or just want to see some new features in the Bharat browser, feel free to open an issue. Every suggestion is very valuable for us, as it help us improve the browsing experience. Also, please don't hesitate to open a pull request. This is really important to us and for the further development of this project.
 
-By opening a pull request, you agree to the conditions of the [Contributor License Agreement](cla.md).
 
 # Development
 
